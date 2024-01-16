@@ -1,8 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/TgPTrgkBWPVmXtgk3s/giphy.gif" width="350"/>
+<div id="header" align="left">
+  <img src="https://github.com/IlyaaIvanovv/IlyaaIvanovv/assets/122904874/91babddf-1443-4849-9e74-db0baba19da4" width="500"/>
 </div>
 
-<div align="center">
+<div align="left">
   
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-00acee?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ilyaa_ivanov)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ilyaa_ivanov/)
