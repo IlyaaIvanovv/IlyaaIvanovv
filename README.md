@@ -15,7 +15,8 @@
 ### My Stats and Dev Stuffs:
 
 <details>
-  <summary><b>:zap: GitHub Stats</summary>
+<br />
+  <summary><b>:zap: GitHub Stats</b></summary>
     <div id="github" align="center">
       <a>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlyaaIvanovv&theme=vue" width="763"/>
