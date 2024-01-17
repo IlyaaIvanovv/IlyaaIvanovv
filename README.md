@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="https://github.com/IlyaaIvanovv/IlyaaIvanovv/assets/122904874/91babddf-1443-4849-9e74-db0baba19da4" width="500"/>
+  <img src="https://github.com/IlyaaIvanovv/IlyaaIvanovv/assets/122904874/22295a63-bf69-4196-8d93-f81747ae0033" width="500"/>
 </div>
 
 <div align="left">
@@ -12,7 +12,9 @@
 
 ---
 
-### My Stats and Dev Stuffs:
+<div id="header1" align="left">
+  <img src="https://github.com/IlyaaIvanovv/IlyaaIvanovv/assets/122904874/e2d1807a-6025-4d2f-be13-a1ccd8e82685" width="300"/>
+</div>
 
 <details>
 <br />
@@ -42,7 +44,9 @@
 
 ---
 
-### About Me :
+<div id="header2" align="left">
+  <img src="https://github.com/IlyaaIvanovv/IlyaaIvanovv/assets/122904874/3aa0caf9-eeb9-4ea5-88c3-b5469eb5457d" width="300"/>
+</div>
 
 I am a QA Engineer from Saint Petersburg, Russia.
 
@@ -54,7 +58,9 @@ I am a QA Engineer from Saint Petersburg, Russia.
 
 ---
 
-### Languages and Tools :
+<div id="header3" align="left">
+  <img src="https://github.com/IlyaaIvanovv/IlyaaIvanovv/assets/122904874/928e54dc-cd3b-40b2-84ce-89cc87ed1bbc" width="300"/>
+</div>
 
 <p align="left">
   <a href="https://skillicons.dev">
