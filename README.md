@@ -5,7 +5,7 @@
 <div align="left">
 
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-00acee?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ilyaa_ivanov)
-  [![VK LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ilya-ivanov-8bb4712ab)
+  [![VK LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-ivanov-8bb4712ab/)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ilyaa_ivanov/)
   [![VK Badge](https://img.shields.io/badge/-VK-0e76a8?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/ilyusha_ivanov)
 
