@@ -13,7 +13,7 @@
 
 ---
 
-<div id="header1" align="left">
+<div id="mystats" align="left">
   <img src="https://github.com/IlyaaIvanovv/IlyaaIvanovv/assets/122904874/e2d1807a-6025-4d2f-be13-a1ccd8e82685" width="300"/>
 </div>
 
@@ -43,9 +43,7 @@
 	</ul>
 </details>
 
----
-
-<div id="header2" align="left">
+<div id="aboutme" align="left">
   <img src="https://github.com/IlyaaIvanovv/IlyaaIvanovv/assets/122904874/3aa0caf9-eeb9-4ea5-88c3-b5469eb5457d" width="300"/>
 </div>
 
@@ -57,14 +55,12 @@ I am a QA Engineer from Saint Petersburg, Russia.
 
 - :envelope: How to reach me: ilyaivanov101@yandex.ru
 
----
-
-<div id="header3" align="left">
+<div id="tools" align="left">
   <img src="https://github.com/IlyaaIvanovv/IlyaaIvanovv/assets/122904874/928e54dc-cd3b-40b2-84ce-89cc87ed1bbc" width="300"/>
 </div>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,gradle,idea,vscode,git,postman,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,idea,vscode,html,css,git,postman,docker&theme=light" />
   </a>
 </p>
