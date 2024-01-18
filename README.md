@@ -1,10 +1,11 @@
 <div id="header" align="left">
-  <img src="https://github.com/IlyaaIvanovv/IlyaaIvanovv/assets/122904874/22295a63-bf69-4196-8d93-f81747ae0033" width="500"/>
+  <img src="https://github.com/IlyaaIvanovv/IlyaaIvanovv/assets/122904874/22295a63-bf69-4196-8d93-f81747ae0033" width="690"/>
 </div>
 
 <div align="left">
-  
+
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-00acee?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ilyaa_ivanov)
+  [![VK LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ilya-ivanov-8bb4712ab)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ilyaa_ivanov/)
   [![VK Badge](https://img.shields.io/badge/-VK-0e76a8?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/ilyusha_ivanov)
 
