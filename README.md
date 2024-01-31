@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="https://github.com/IlyaaIvanovv/IlyaaIvanovv/assets/122904874/22295a63-bf69-4196-8d93-f81747ae0033" width="680"/>
+  <img src="https://github.com/IlyaaIvanovv/IlyaaIvanovv/blob/main/newheader.png" width="590"/>
 </div>
 
 <div align="left">
@@ -8,6 +8,7 @@
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-00acee?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ilyaa_ivanov)
   [![GitLab Badge](https://img.shields.io/badge/-GitLab-e87a0c?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/IlyaaIvanovv)
   [![Habr Badge](https://img.shields.io/badge/-habr-3e7aa3?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/ilyaa_ivanov/)
+  [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/vb0egzzaijhhfh4ecg62bk514)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ilyaa_ivanov/)
   [![VK Badge](https://img.shields.io/badge/-VK-0e76a8?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/ilyusha_ivanov)
 
@@ -61,14 +62,14 @@ I am a QA Engineer from Saint Petersburg, Russia.
 
 - [Testing report](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/docs/Report.md)
 
-## My CV:
-
-:link: [Here](https://drive.google.com/file/d/1scgATKsTzw7jy_niWvtDyYPPRm5cRatj/view)
-
 ## Languages and Tools:
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,idea,vscode,html,css,git,postman,docker&theme=light" />
+  <a href="#">
+    <img src="https://simpleskill.icons.workers.dev/svg?i=mysql,git,visualstudiocode,html5,css3,intellijidea,jira,postman,docker" />
   </a>
 </p>
+
+---
+
+![GitHub last commit](https://img.shields.io/github/last-commit/IlyaaIvanovv/IlyaaIvanovv)
