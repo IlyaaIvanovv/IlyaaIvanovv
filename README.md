@@ -66,7 +66,7 @@ I am a QA Engineer from Saint Petersburg, Russia.
 
 <p align="left">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=mysql,git,visualstudiocode,html5,css3,intellijidea,jira,postman,docker,markdown" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=mysql,git,visualstudiocode,html5,css3,intellijidea,jira,testrail,postman,docker,markdown" />
   </a>
 </p>
 
