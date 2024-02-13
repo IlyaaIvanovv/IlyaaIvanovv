@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="https://github.com/IlyaaIvanovv/IlyaaIvanovv/blob/main/newheader.png" width="590"/>
+  <img src="https://github.com/IlyaaIvanovv/IlyaaIvanovv/blob/main/newheader.png" width="495"/>
 </div>
 
 <div align="left">
@@ -8,7 +8,6 @@
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-00acee?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ilyaa_ivanov)
   [![GitLab Badge](https://img.shields.io/badge/-GitLab-e87a0c?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/IlyaaIvanovv)
   [![Habr Badge](https://img.shields.io/badge/-habr-3e7aa3?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/ilyaa_ivanov/)
-  [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/vb0egzzaijhhfh4ecg62bk514)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ilyaa_ivanov/)
   [![VK Badge](https://img.shields.io/badge/-VK-0e76a8?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/ilyusha_ivanov)
 
@@ -36,11 +35,11 @@
   <summary><b>:gear: Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> MacOS 14 Sonoma</li>
-	      <li><b>Laptop: </b> MacBook Pro M1</li>
+	    <li><b>Laptop: </b> MacBook Pro M1</li>
   	    <li><b>Browser: </b>Google Chrome</li>
-	      <li><b>Terminal: </b> ZSH: Oh My Zsh</li>
-	      <li><b>Code Editor:</b> Visual Studio Code</li>
- 	      <li><b>Other Tools:</b> IDEA, Git, Postman</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh</li>
+	    <li><b>Code Editor:</b> Visual Studio Code</li>
+ 	    <li><b>Other Tools:</b> IDEA, Git, Postman</li>
 	</ul>
 </details>
 
@@ -54,19 +53,21 @@ I am a QA Engineer from Saint Petersburg, Russia.
 
 - :envelope: How to reach me: ilyaivanov101@yandex.ru
 
-## Portfolio (one example):
+## Portfolio:
 
-- [Automation Plan (Test cases)](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/docs/Plan.md)
-
-- [Bug reports](https://github.com/IlyaaIvanovv/QA_Diploma/issues)
+- [Automation Plan (test-cases)](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/docs/Plan.md)
 
 - [Testing report](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/docs/Report.md)
+
+- Bug reports - [MS Docs](https://docs.google.com/document/d/1KAkpQBk05amOCgItaJ6OYFoAFQ9zxbHLGzm_Ao8tbZ4/edit?usp=sharing), [Jira](https://docs.google.com/document/d/1HUvJFv-DSn1wjchnkTysNqGSoXmzqy1qqae3uJampKA/edit?usp=sharing) & [GitHub Issue](https://github.com/IlyaaIvanovv/QA_Diploma/issues)
+  
+- [SQL Request](https://docs.google.com/document/d/1uXpQYuioo5aRq6COo974jRrDZw0ALZyl1SHK0qCwulI/edit?usp=sharing)
 
 ## Languages and Tools:
 
 <p align="left">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=mysql,git,visualstudiocode,html5,css3,intellijidea,jira,testrail,postman,docker,markdown" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=mysql,postgresql,html5,css3,intellijidea,notion,postman,git,visualstudiocode,jira,testrail,docker"/>
   </a>
 </p>
 
