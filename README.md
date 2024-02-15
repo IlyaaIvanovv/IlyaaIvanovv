@@ -17,7 +17,8 @@
 
 ## About Me:
 
-I am a QA Engineer from Saint Petersburg, Russia.
+I am a QA Engineer from Saint Petersburg, Russia.\
+In my free time I like to play PS5, in particular EA FC (WL is rage 🔥).
 
 How to reach me: ilyaivanov101@yandex.ru
 
