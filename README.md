@@ -15,6 +15,26 @@
 
 ---
 
+## About Me:
+
+I am a QA Engineer from Saint Petersburg, Russia.
+
+How to reach me: ilyaivanov101@yandex.ru
+
+## Portfolio:
+
+- [Diploma «QA Engineer»](https://github.com/IlyaaIvanovv/QA_Diploma)  
+  Tasks:
+  - [Plan test automation.](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/docs/Plan.md)
+  - [Automate positive and negative test cases.](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/src/test/java/tests/PaymentCardTest.java)
+  - [Testing report.](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/docs/Report.md)
+
+  Stack: IntelliJ IDEA, Java 11, Gradle, JUnit 5, Selenide, Git, Lombok, Faker, Docker
+
+- Bug reports - [MS Docs](https://docs.google.com/document/d/1KAkpQBk05amOCgItaJ6OYFoAFQ9zxbHLGzm_Ao8tbZ4/edit?usp=sharing), [Jira](https://docs.google.com/document/d/1HUvJFv-DSn1wjchnkTysNqGSoXmzqy1qqae3uJampKA/edit?usp=sharing) & [GitHub Issue](https://github.com/IlyaaIvanovv/QA_Diploma/issues)
+  
+- [SQL Request](https://github.com/IlyaaIvanovv/SQL)
+
 ## My Stats and Dev Stuffs:
 
 <details>
@@ -42,26 +62,6 @@
  	    <li><b>Other Tools:</b> IDEA, Git, Postman</li>
 	</ul>
 </details>
-
-## About Me:
-
-I am a QA Engineer from Saint Petersburg, Russia.
-
-- :trophy: Сompleted the tester course for Netology.
-
-- :video_game: In my free time I play PS5.
-
-- :envelope: How to reach me: ilyaivanov101@yandex.ru
-
-## Portfolio:
-
-- [Automation Plan (test-cases)](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/docs/Plan.md)
-
-- [Testing report](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/docs/Report.md)
-
-- Bug reports - [MS Docs](https://docs.google.com/document/d/1KAkpQBk05amOCgItaJ6OYFoAFQ9zxbHLGzm_Ao8tbZ4/edit?usp=sharing), [Jira](https://docs.google.com/document/d/1HUvJFv-DSn1wjchnkTysNqGSoXmzqy1qqae3uJampKA/edit?usp=sharing) & [GitHub Issue](https://github.com/IlyaaIvanovv/QA_Diploma/issues)
-  
-- [SQL Request](https://docs.google.com/document/d/1uXpQYuioo5aRq6COo974jRrDZw0ALZyl1SHK0qCwulI/edit?usp=sharing)
 
 ## Languages and Tools:
 
