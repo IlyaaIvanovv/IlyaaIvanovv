@@ -71,7 +71,3 @@ How to reach me: ilyaivanov101@yandex.ru
     <img src="https://simpleskill.icons.workers.dev/svg?i=mysql,postgresql,html5,css3,intellijidea,notion,postman,git,visualstudiocode,jira,testrail,docker"/>
   </a>
 </p>
-
----
-
-![GitHub last commit](https://img.shields.io/github/last-commit/IlyaaIvanovv/IlyaaIvanovv)
