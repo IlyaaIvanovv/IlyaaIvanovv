@@ -20,17 +20,24 @@
 I am a QA Engineer from Saint Petersburg, Russia.\
 In my free time I like to play PS5, in particular EA FC (WL is rage 🔥).
 
-How to reach me: ilyaivanov101@yandex.ru
+> Contact me: ilyaivanov101@yandex.ru
 
 ## Portfolio:
 
 - [Diploma «QA Engineer»](https://github.com/IlyaaIvanovv/QA_Diploma)  
   Tasks:
-  - [Plan test automation.](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/docs/Plan.md)
-  - [Automate positive and negative test cases.](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/src/test/java/tests/PaymentCardTest.java)
-  - [Testing report.](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/docs/Report.md)
+  - [x] [Plan test automation.](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/docs/Plan.md)
+  - [x] [Automate positive and negative test cases.](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/src/test/java/tests/PaymentCardTest.java)
+  - [x] [Testing report.](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/docs/Report.md)
 
-  Stack: IntelliJ IDEA, Java 11, Gradle, JUnit 5, Selenide, Git, Lombok, Faker, Docker
+  *Stack: IntelliJ IDEA, Java 11, Gradle, JUnit 5, Selenide, Git, Lombok, Faker, Docker*
+
+- [Test task for the position of a "Tester"](https://docs.google.com/document/d/12K6deYPNG4Vwplhde_voStMDqqA7S3lp7ZhkmqwnEHQ/edit)  
+  Tasks:
+  - [x] [Test cases](https://docs.google.com/spreadsheets/d/1Xuw5aeZvj1WhS7DnlMi8h0WIwgid5zLHNWAfdgNUn-I/edit#gid=1269048450)
+  - [x] [Bug list (UI KIT)](https://docs.google.com/spreadsheets/d/1Xuw5aeZvj1WhS7DnlMi8h0WIwgid5zLHNWAfdgNUn-I/edit#gid=1388596427)
+
+- [Test cases (аpplication for a card)](https://docs.google.com/spreadsheets/d/1CE8braN-PlUBuMGEs6aZpfByMVoBHvRQQI3sWMUI37U/edit?usp=sharing)
 
 - Bug reports - [MS Docs](https://docs.google.com/document/d/1KAkpQBk05amOCgItaJ6OYFoAFQ9zxbHLGzm_Ao8tbZ4/edit?usp=sharing), [Jira](https://docs.google.com/document/d/1HUvJFv-DSn1wjchnkTysNqGSoXmzqy1qqae3uJampKA/edit?usp=sharing) & [GitHub Issue](https://github.com/IlyaaIvanovv/QA_Diploma/issues)
   
