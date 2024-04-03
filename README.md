@@ -35,11 +35,16 @@
   - [x] [Чек-лист](https://docs.google.com/spreadsheets/d/1_rxMS_CCZkjJJMMTdE0iDz9bs7Y3Oi0BrELTLst2uDY/edit#gid=0)
   - [x] [Тест-кейсы](https://docs.google.com/spreadsheets/d/1_rxMS_CCZkjJJMMTdE0iDz9bs7Y3Oi0BrELTLst2uDY/edit#gid=1657628960)
 
-
 - [Тестовое задание на должность «Тестировщик»:](https://docs.google.com/document/d/12K6deYPNG4Vwplhde_voStMDqqA7S3lp7ZhkmqwnEHQ/edit)  
   Выполненные задачи:
   - [x] [Тест-кейсы](https://docs.google.com/spreadsheets/d/1Xuw5aeZvj1WhS7DnlMi8h0WIwgid5zLHNWAfdgNUn-I/edit#gid=1269048450)
   - [x] [Баг-лист (UI KIT)](https://docs.google.com/spreadsheets/d/1Xuw5aeZvj1WhS7DnlMi8h0WIwgid5zLHNWAfdgNUn-I/edit#gid=1388596427)
+
+- [Тестовое задание «Инженер по тестированию»:](https://paper.dropbox.com/doc/landing-and-cloud-SgCnOIIhJoRBBoReY8aQT)  
+  Выполненные задачи:
+  - [x] [Чек-лист](https://docs.google.com/spreadsheets/d/1iUBxp0yH3mpjrlxhCGrQoho_U-14Eq7_vFcgIKfw4uw/edit#gid=0)
+  - [x] [Баг-репорты](https://docs.google.com/spreadsheets/d/1iUBxp0yH3mpjrlxhCGrQoho_U-14Eq7_vFcgIKfw4uw/edit#gid=1932857045)
+  - [x] [Тест-план (регресс)](https://docs.google.com/spreadsheets/d/1iUBxp0yH3mpjrlxhCGrQoho_U-14Eq7_vFcgIKfw4uw/edit#gid=162564987)
 
 - [Тест-кейсы (Заявка на офорлмение карты)](https://docs.google.com/spreadsheets/d/1CE8braN-PlUBuMGEs6aZpfByMVoBHvRQQI3sWMUI37U/edit?usp=sharing)
 
