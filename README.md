@@ -19,6 +19,10 @@
 
 > Связь со мной: ilyaivanov101@yandex.ru
 
+## Резюме:
+
+- [CV](https://drive.google.com/file/d/17skKBwDh-QcnRh_rAMSmF7AWcTZb-9qh/view?usp=sharing) 
+
 ## Портфолио:
 
 - [Диплом «Тестировщик ПО»:](https://github.com/IlyaaIvanovv/QA_Diploma)  
