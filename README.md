@@ -15,15 +15,16 @@
 ## Обо мне:
 
 Я инженер по контролю качества из Санкт-Петербурга.\
-В свободное время люблю играть на PS5, в частности в EA FC (WL 🔥).
+В свободное время люблю играть на PS5, в частности в EA FC.
 
 > Связь со мной: ilyaivanov101@yandex.ru
 
 ## Резюме:
 
-- [CV](https://drive.google.com/file/d/17skKBwDh-QcnRh_rAMSmF7AWcTZb-9qh/view?usp=sharing) 
+- [CV](https://drive.google.com/file/d/1ogn8t9FnnCpquq3kOQQQO0ZkNViArAPj/view?usp=sharing) 
 
 ## Портфолио:
+#### Автоматизированное тестирование:
 
 - [Диплом «Тестировщик ПО»:](https://github.com/IlyaaIvanovv/QA_Diploma)  
   Выполненные задачи:
@@ -33,6 +34,8 @@
   - [x] [Отчёт по итогам тестирования](https://github.com/IlyaaIvanovv/QA_Diploma/blob/main/docs/Report.md)
 
   *Стек: IntelliJ IDEA, Java 11, Gradle, JUnit 5, Selenide, Git, Lombok, Faker, Docker*
+
+#### Ручное тестирование:
 
 - [Практика. Приложение «Nextracker»:](https://github.com/IlyaaIvanovv/test_Nextracker)  
   Выполненные задачи:
@@ -48,9 +51,12 @@
   Выполненные задачи:
   - [x] [Чек-лист](https://docs.google.com/spreadsheets/d/1iUBxp0yH3mpjrlxhCGrQoho_U-14Eq7_vFcgIKfw4uw/edit#gid=0)
   - [x] [Баг-репорты](https://docs.google.com/spreadsheets/d/1iUBxp0yH3mpjrlxhCGrQoho_U-14Eq7_vFcgIKfw4uw/edit#gid=1932857045)
-  - [x] [Тест-план (регресс)](https://docs.google.com/spreadsheets/d/1iUBxp0yH3mpjrlxhCGrQoho_U-14Eq7_vFcgIKfw4uw/edit#gid=162564987)
+  - [x] [Тест-кейсы (регресс)](https://docs.google.com/spreadsheets/d/1iUBxp0yH3mpjrlxhCGrQoho_U-14Eq7_vFcgIKfw4uw/edit#gid=162564987)
 
-- [Тест-кейсы (Заявка на офорлмение карты)](https://docs.google.com/spreadsheets/d/1CE8braN-PlUBuMGEs6aZpfByMVoBHvRQQI3sWMUI37U/edit?usp=sharing)
+- [Тестовое задание «Тестировщик»:](https://disk.yandex.ru/i/97KeB5wDrflhyA)  
+  Выполненные задачи:
+  - [x] [Тест-кейсы (позитив / негатив)](https://docs.google.com/spreadsheets/d/19PJC6NFcVAat6cMqOF99tiqac2PGdsUatPP5BipZeKQ/edit?gid=1657628960#gid=1657628960)
+  - [x] [План](https://docs.google.com/spreadsheets/d/19PJC6NFcVAat6cMqOF99tiqac2PGdsUatPP5BipZeKQ/edit?gid=1835547549#gid=1835547549)
 
 - Баг-репорты - [MS Docs](https://docs.google.com/document/d/1KAkpQBk05amOCgItaJ6OYFoAFQ9zxbHLGzm_Ao8tbZ4/edit?usp=sharing), [Jira](https://docs.google.com/document/d/1HUvJFv-DSn1wjchnkTysNqGSoXmzqy1qqae3uJampKA/edit?usp=sharing) & [GitHub Issue](https://github.com/IlyaaIvanovv/QA_Diploma/issues)
   
@@ -60,7 +66,7 @@
 
 <p align="left">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=mysql,postgresql,html5,css3,intellijidea,notion,postman,git,gitlab,visualstudiocode,jira,testrail,docker"/>
+    <img src="https://simpleskill.icons.workers.dev/svg?i=mysql,postgresql,html5,css3,intellijidea,notion,postman,git,gitlab,jira,testrail,docker"/>
   </a>
 </p>
 
