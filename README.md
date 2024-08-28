@@ -21,7 +21,7 @@
 
 ## Резюме:
 
-- [CV](https://drive.google.com/file/d/1ogn8t9FnnCpquq3kOQQQO0ZkNViArAPj/view?usp=sharing) 
+- [CV](https://drive.google.com/file/d/1YgY13yHAgatuDfqJG7Cfu6es_ksp5PjU/view?usp=sharing) 
 
 ## Портфолио:
 #### Автоматизированное тестирование:
@@ -66,7 +66,7 @@
 
 <p align="left">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=mysql,postgresql,html5,css3,intellijidea,notion,postman,git,gitlab,jira,testrail,docker"/>
+    <img src="https://simpleskill.icons.workers.dev/svg?i=mysql,postgresql,git,html5,css3,intellijidea,postman,trello,confluence,jira,testrail,docker"/>
   </a>
 </p>
 
