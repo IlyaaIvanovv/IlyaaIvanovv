@@ -21,7 +21,7 @@
 
 ## Резюме:
 
-- [CV](https://drive.google.com/file/d/1YgY13yHAgatuDfqJG7Cfu6es_ksp5PjU/view?usp=sharing) 
+- [CV](https://drive.google.com/file/d/1CYaSX-hNTD4aKqdIqamK0IkI98Fgsq2w/view?usp=sharing) 
 
 ## Портфолио:
 #### Автоматизированное тестирование:
